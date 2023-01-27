@@ -38,6 +38,8 @@
             string frase = "Hoje malhei glúteos!";
 
             Console.WriteLine(frase.Substring(0,4));
+
+            Console.WriteLine(frase.Replace("glúteos", "panturrilha e abdominal"));
         }
     }
 
